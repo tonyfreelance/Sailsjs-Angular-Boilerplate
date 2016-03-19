@@ -1,0 +1,29 @@
+{
+  "name": "place-finder-app",
+  "description": "A Place Finder",
+  "main": "app.js",
+  "authors": [
+    "ubuntu"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.0",
+    "font-awesome": "^4.5.0",
+    "angular-socialshare": "angularjs-socialshare#^0.1.20",
+    "satellizer": "^0.14.0",
+    "angular-toastr": "^1.7.0",
+    "angular-cookies": "^1.5.1",
+    "angular-ui-router": "^0.2.18"
+  }
+}
