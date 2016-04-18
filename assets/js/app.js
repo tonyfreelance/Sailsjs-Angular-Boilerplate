@@ -1,3 +1,11 @@
-var myApp = angular.module('PlaceFinderApp', ['ui.router', 'toastr', 'satellizer']);
+'use strict';
 
-// myApp.config([])
+angular
+    .module('', ['ui.router', 'toastr', 'satellizer'])
+    .config(config);
+
+config.$inject = [''];
+
+function config() {
+
+}
